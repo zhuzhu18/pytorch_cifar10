@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="957121a8-972e-400d-9f36-d7ddd781ce7c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../k_nearest_neighbor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/draft.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/draft.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../My_RACNN/trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../My_RACNN/trainer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../capture_img.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../crawler/bs4_ex.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data_augment/Market1501.py" beforeDir="false" afterPath="$PROJECT_DIR$/../data_augment/Market1501.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image_processing/.idea/image_processing.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image_processing/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image_processing/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image_processing/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image_processing/1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image_processing/2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image_processing/3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../image_processing/gray histogram.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../load.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../load_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../load_em_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logistic regression/data/MNIST/processed/test.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logistic regression/data/MNIST/processed/training.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logistic regression/data/MNIST/raw/t10k-images-idx3-ubyte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logistic regression/data/MNIST/raw/t10k-labels-idx1-ubyte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logistic regression/data/MNIST/raw/train-images-idx3-ubyte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logistic regression/data/MNIST/raw/train-labels-idx1-ubyte" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logistic regression/logis_classify.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multi_plots.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../polynomial/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../polynomial/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../polynomial/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../polynomial/2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resnet50.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rob.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shift.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tar/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tar/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tar/.idea/tar.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tar/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tar/1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tar/2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tar/ico.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tar/sample.tar.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tar/tar1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/attention_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/../test/attention_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../test1/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../test1/3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/exercise3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test1/isotonic regression.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/../test_generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../train.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../unet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../utils.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="true" current-in-tab="true">
+        <entry file="remoteDeploymentFS://&lt;1bedc85b-4497-402e-887e-32b84400912a&gt;/PycharmProject/pytorch_cifar10/1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/datasets/dataset.py" />
+        <option value="$PROJECT_DIR$/options/general.py" />
+        <option value="$PROJECT_DIR$/options/opt_cifar.py" />
+        <option value="$PROJECT_DIR$/models/preresnet.py" />
+        <option value="$PROJECT_DIR$/utils/draw_figure.py" />
+        <option value="&lt;1bedc85b-4497-402e-887e-32b84400912a&gt;/PycharmProject/pytorch_cifar10/utils/draw_figure.py" />
+        <option value="$PROJECT_DIR$/utils/tools.py" />
+        <option value="&lt;1bedc85b-4497-402e-887e-32b84400912a&gt;/PycharmProject/pytorch_cifar10/utils/tools.py" />
+        <option value="&lt;1bedc85b-4497-402e-887e-32b84400912a&gt;/PycharmProject/pytorch_cifar10/1.py" />
+        <option value="&lt;1bedc85b-4497-402e-887e-32b84400912a&gt;/PycharmProject/pytorch_cifar10/cifar.py" />
+        <option value="&lt;1bedc85b-4497-402e-887e-32b84400912a&gt;/PycharmProject/pytorch_cifar10/trainers/train.py" />
+        <option value="$PROJECT_DIR$/trainers/train.py" />
+        <option value="$PROJECT_DIR$/cifar.py" />
+        <option value="$PROJECT_DIR$/1.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="127" />
+    <option name="y" value="81" />
+    <option name="width" value="1581" />
+    <option name="height" value="976" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pytorch_cifar10" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="957121a8-972e-400d-9f36-d7ddd781ce7c" name="Default Changelist" comment="" />
+      <created>1578035004790</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578035004790</updated>
+      <workItem from="1578035010135" duration="14726000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14726000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="-4" width="1853" height="1084" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16526611" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="File Transfer" weight="0.32908705" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30360934" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Remote Host" visible="true" weight="0.14901961" />
+      <window_info anchor="right" id="SciView" weight="0.16694678" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pytorch_cifar10$1.coverage" NAME="1 Coverage Results" MODIFIED="1578053770453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/datasets/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/cifar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/preresnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+          <folding>
+            <element signature="e#173#184#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainers/trainer_template.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../ec114170-f406-444f-bee7-a3dc0a86cfa2/anaconda3/lib/python3.7/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="620" column="4" selection-start-line="620" selection-start-column="4" selection-end-line="620" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1644798536/torch/_C/__init__/_TensorBase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="3012" column="8" selection-start-line="3012" selection-start-column="8" selection-end-line="3012" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/options/opt_cifar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/warning">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/draw_figure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="36" column="14" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/options/general.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cifar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="80" column="35" selection-start-line="80" selection-start-column="35" selection-end-line="80" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainers/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="98" column="40" lean-forward="true" selection-start-line="98" selection-start-column="40" selection-end-line="98" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
